@@ -1,0 +1,120 @@
+@charset "UTF-8";
+
+*{
+    
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(184, 181, 181);
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body{
+    background-color:#0B1118;
+    margin: auto;
+    align-content: center;
+    max-width: 850px;
+}
+.real-back{
+    padding: 0% 15%;
+}
+h1 {
+    text-align: left;
+}
+.aspas img {
+    display: block;
+    max-width: 620px;
+    width: 100%;
+    padding: 25px 0px;
+}
+.paulanobre {
+    max-width: 620px;
+    width: 100%;
+    max-height: 700px;
+    height: 100%;
+    padding: 25px 0px;
+}
+
+li{
+    text-align: justify;
+    margin: 2%;
+    list-style: none;
+    
+}
+.assunto{
+    margin-left: 15px;
+}
+#mencion{
+    margin-left: 10px;
+}
+a {
+    color: #FF4654;
+    margin: 0%;
+    font-weight: bold;
+    
+}
+small{
+    margin: 0%;
+}
+img{
+    
+
+}
+
+strong {
+    margin-left: 0%;
+}
+
+cite{
+    margin-left: 0%;
+}
+.peb{
+padding: 0%;
+}
+
+#avançar img{
+    max-width: 40px;
+    margin-left: 103%;
+}
+.back{
+    background-color: #0D0F12;
+}
+.logo-valorantzone {
+    width: 100%;
+    max-width: 200px;
+    margin-left: 10px;
+    padding: 5px;
+
+    
+    
+}
+.noticias {
+    
+    background-color:#FF4654;
+    color: rgb(233, 233, 233);
+    padding: 4px;
+    margin: 5px 0px 0px 10px;
+    align-items: start;
+    
+}
+    
+    
+.main{
+
+}
+h2{
+    margin-left: auto;
+    color: rgb(231, 229, 229);
+    align-items: center;
+}
+h3{
+ margin-top: 15px;
+}
+ul{
+    margin-left: 10px;
+}
+
+#not{
+    color: white;
+}
